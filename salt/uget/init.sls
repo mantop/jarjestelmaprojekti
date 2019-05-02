@@ -1,0 +1,3 @@
+uget:
+ pkg.installed
+
