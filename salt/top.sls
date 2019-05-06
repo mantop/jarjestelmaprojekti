@@ -23,6 +23,7 @@ base:
     - shutter
     - filezilla
     - java-dev
+    - tools-lin
 
   'linux-ceo*':
     - ufw
@@ -41,6 +42,7 @@ base:
     - shutter
     - inkscape
     - ssh
+    - tools-lin
 
   'linux-designer*':
     - ufw
@@ -50,6 +52,7 @@ base:
     - openshot
     - spotify
     - wps-office
+    - tools-lin
   
   'linux-guest*':
     - ufw
@@ -59,3 +62,4 @@ base:
 
   'windows*':
     - windows-software
+    - tools-win
